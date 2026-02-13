@@ -27,8 +27,8 @@ The E-ballot module serves as the secure digital voting interface where students
 
 ### Use Case Scenarios
 
-- [Ballot Accomplishment](/docs/Usecase/e-ballot/ballot-accomplishment.md)
-- [Ballot Finalization](/docs/Usecase/e-ballot/ballot-finalization.md)
+- [Ballot Accomplishment](/docs/Usecase/E-ballot/ballot-accomplishment.md)
+- [Ballot Finalization](/docs/Usecase/E-ballot/ballot-finalization.md)
 
 ---
 
