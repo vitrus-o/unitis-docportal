@@ -5,17 +5,17 @@
 
 [Project Homepage](/README.md)
 
-[E-ballot](/docs/usecase/e-ballot.md)
+[E-ballot](/docs/Usecase/e-ballot.md)
 
-[Voter Validation](/docs/usecase/voter-validation.md)
+[Voter Validation](/docs/Usecase/voter-validation.md)
 
-[Election Results](/docs/usecase/election-results.md)
+[Election Results](/docs/Usecase/election-results.md)
 
-[Result Archiving](/docs/usecase/result-archiving.md)
+[Result Archiving](/docs/Usecase/result-archiving.md)
 
-[Real-time Vote Count](/docs/usecase/real-time-vote-count.md)
+[Real-time Vote Count](/docs/Usecase/real-time-vote-count.md)
 
-[Candidate Applications](/docs/usecase/candidate-applications.md)
+[Candidate Applications](/docs/Usecase/candidate-applications.md)
 
 ---
 
@@ -27,8 +27,8 @@ The E-ballot module serves as the secure digital voting interface where students
 
 ### Use Case Scenarios
 
-- [Ballot Accomplishment](/docs/usecase/e-ballot/ballot-accomplishment.md)
-- [Ballot Finalization](/docs/usecase/e-ballot/ballot-finalization.md)
+- [Ballot Accomplishment](/docs/Usecase/e-ballot/ballot-accomplishment.md)
+- [Ballot Finalization](/docs/Usecase/e-ballot/ballot-finalization.md)
 
 ---
 

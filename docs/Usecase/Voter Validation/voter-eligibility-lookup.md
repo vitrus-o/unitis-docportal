@@ -6,9 +6,9 @@
 
 [Project Homepage](/README.md)
 
-[E-ballot](/docs/usecase/e-ballot.md)
+[E-ballot](/docs/Usecase/e-ballot.md)
 
-[Voter Validation](/docs/usecase/voter-validation.md)
+[Voter Validation](/docs/Usecase/voter-validation.md)
 
 [Election Results](/docs/election-results.md)
 
